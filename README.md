@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of result](./design/screenshot.jpg)
+![Screenshot of result](StatsPreviewCard/screenshot.jpg)
 
 ### Links
 
